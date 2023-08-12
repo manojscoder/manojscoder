@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Java, DSA, Python, C, Big data**
 
-- 📫 How to reach me **https://www.linkedin.com/in/manoj-s-25589a221/**
-
 - ⚡ Fun fact **Did you know that the original name of JavaScript was 'Mocha'**
 
 <h3 align="left">Connect with me:</h3>

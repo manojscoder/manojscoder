@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Java, DSA, Python, C, Big data**
 
-- ⚡ Fun fact **Did you know that the original name of JavaScript was 'Mocha'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

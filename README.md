@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, DSA, and ML**
 
-- 💬 Ask me about **Java, DSA, Python, C, Big data**
+- 💬 Ask me about **Java, DSA, Python, C**
 
 
 <h3 align="left">Connect with me:</h3>

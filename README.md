@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojscoder&label=Profile%20views&color=0e75b6&style=flat" alt="manojscoder" /> </p>
 
-- 🌱 I’m currently learning **MERN, DSA, and ML**
+- 🌱 I’m currently learning **Flutter, DSA, and MERN**
 
-- 💬 Ask me about **Java, DSA, Python, C**
+- 💬 Ask me about **Java, DSA, Python, C, Flutter**
 
 
 <h3 align="left">Connect with me:</h3>

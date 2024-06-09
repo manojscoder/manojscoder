@@ -32,7 +32,7 @@
 
 ## 🌐 Contact Me On
 
-- **LinkedIn:** [Manoj](www.linkedin.com/in/manojs3)
+- **LinkedIn:** [Manoj](https://www.linkedin.com/in/manoj-s-25589a221/)
 - **Email:** <a href="mailto:mail2manoj763@gmail.com">mail2manoj763@gmail.com</a>
 
 <!--

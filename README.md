@@ -15,7 +15,7 @@
 
 <br>
 <a href="https://leetcode.com/u/manu_suresh/">
-    <img src="https://leetcard.jacoblin.cool/manu_suresh?theme=unicorn&font=Oxygen"></img>
+    <img src="https://leetcard.jacoblin.cool/manu_suresh?theme=dark&font=Plus%20Jakarta%20Sans&ext=contest"></img>
 <a>
 
 <!------------------------------------------>

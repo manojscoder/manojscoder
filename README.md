@@ -23,13 +23,6 @@
 <!------------------------------------------>
 <!-- SECTION: Contact me -->
 
-## 💻 Coding Profiles
-
-- **LeetCode:** [manu_suresh](https://leetcode.com/u/manu_suresh/)
-- **HackerRank:** [Manoj_Suresh](https://www.hackerrank.com/profile/Manoj_Suresh)
-
-
-
 ## 🌐 Contact Me On
 
 - **LinkedIn:** [Manoj](https://www.linkedin.com/in/manoj-s-25589a221/)

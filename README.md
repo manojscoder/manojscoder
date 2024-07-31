@@ -12,6 +12,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="40px"></img>
 
 

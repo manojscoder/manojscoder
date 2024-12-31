@@ -21,7 +21,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="40px"></img>
-
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="40px"></img>
 <br>
 <img src="https://leetcard.jacoblin.cool/manu_suresh?theme=dark&font=Plus%20Jakarta%20Sans&ext=contest"></img>
 
